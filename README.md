@@ -7,4 +7,4 @@
 ![專題報告](專題報告.pdf)
 
 ![2021 光電與通訊工程應用研討會-參與名單](2021光電與通訊工程應用研討會成果展示.pdf)
-![图片alt](图片链接 "pic/list.png")
+![图片alt](图片链接 "https://github.com/KMC1911/Capstone-Project/blob/main/pic/list.png")
